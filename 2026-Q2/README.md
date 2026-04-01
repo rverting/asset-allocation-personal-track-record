@@ -6,6 +6,7 @@ As a reminder, the Contrarian Momentum Portfolio is a multi-asset strategy drive
 
 Flexibility in asset allocation primarily comes from the remaining 40% invested across other asset classes—namely fixed income, credit, and precious metals—which are actively managed to generate excess returns relative to the benchmark based on discretionary macro views.
 
+
 ## 2026 Q1 performance review
 
 In the first quarter, the momentum-contrarian portfolio delivered a return of +1.1%, compared with -1.1% for the benchmark*. While the portfolio exhibited higher volatility and a greater maximum drawdown, these metrics should be assessed over the full period since the strategy’s inception in Q1 2025. (The strategy has been live since early 2025, with allocations published on this GitHub only from Q1 2026 onward). 
@@ -15,6 +16,10 @@ Performance was primarily weighed down by emerging market exposures, notably in 
 Monthly attribution indicates that most assets detracted from performance in March, amid market reactions to the prolonged blockade of the Strait of Hormuz. The portfolio maintained a deliberate cyclical bias through long positions in emerging markets (both equities and currencies versus the US dollar), which negatively impacted returns during the month. More unexpectedly, gold behaved like a risk asset rather than fulfilling its traditional role as a safe haven. 
 
 Nevertheless, precious metals contributed positively over the quarter, alongside several other segments of the portfolio, including utilities, mining, and, to a lesser extent, semiconductors.
+
+Since inception, total performance is +15,9% in € with a -11,7% Maxdrawdown VS +5,01% for the benchmark* with a -12,9% Maxdrawdown. The strategy Annualized return / MDD (RoMad) is 1,08 vs 0,31 for the benchmark*
+
+<img width="1325" height="823" alt="image" src="https://github.com/user-attachments/assets/a0e1fa36-75f3-4816-ad69-f64531653b3c" />
 
 *Benchmark is 65% equity / 35% bonds (ACWI Net Return €: NDEEWNR Index & Global Aggregate Net Return € Hedged: LEGATREH Index)
 
